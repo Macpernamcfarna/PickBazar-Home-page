@@ -59,34 +59,4 @@ Flexbox layout for navigation
 Centered content section
 
 Adaptive search bar design
-
-External Links
-Join Button: https://www.google.com/
-
-Search Button: https://www.amazon.com/fmc/learn-more
-
-Logo Link: http://www.youtube.com
-
-Setup Instructions
-Ensure all images are in the same directory:
-
-download.webp
-
-OIP.webp
-
-aaron-mello-emdfKg_LRs0-unsplash.jpg
-
-Link the style.css file (if separate)
-
-Internet connection required for Font Awesome CDN
-
-Future Improvements
-Add actual search functionality
-
-Implement user authentication
-
-Add shopping cart feature
-
-Create product categories
-
-Add responsive design for mobile devices
+ for mobile devices
